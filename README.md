@@ -44,6 +44,11 @@ A machine learning API for advanced keyword extraction.
 - **Tech Stack**: Python
 - [🔗 https://github.com/tatatitutatuay/dsde_project](#) |[🌐 https://dsde-project.vercel.app/](#)
 
+### 5. **Farming Game**
+Desktop game -> farming cooking using java
+- **Tech Stack**: JavaFX
+- [🔗 https://github.com/2110215-ProgMeth/project-cedt-2023-2-helloworld](#)
+
 ---
 
 ## 📫 Connect with Me
