@@ -42,7 +42,8 @@ An IoT system with an embedding server to transfer data from hardware to a web s
 ### 4. **A2K**
 A machine learning API for advanced keyword extraction.
 - **Tech Stack**: Python
-- [🔗 https://github.com/tatatitutatuay/dsde_project](#) |[🌐 https://dsde-project.vercel.app/] | [🌐 - https://a2k-backend.onrender.com/api/extract](#)
+- [🔗 https://github.com/tatatitutatuay/dsde_project](#) |[🌐 https://dsde-project.vercel.app/](#)
+- [🌐 - https://a2k-backend.onrender.com/api/extract](#)
 
 
 ### 5. **Farming Game**
