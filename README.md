@@ -1,22 +1,21 @@
 # Hi there! 👋 I'm Tata
 
-Welcome to my GitHub profile! I'm a Computer Engineering student at **Chulalongkorn University** with a passion for **backend web development**.
+Welcome to my GitHub profile! I'm a Computer Engineering student at **Chulalongkorn University** with a passion for **software development**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 **Education**: Computer Engineering @ Chulalongkorn University
-- 🛠️ **Expertise**: Backend Web Development, Node.js, Python, SQL
+- 🛠️ **Expertise**: Backend Web Development, Node.js, Python, SQL, prisma, Elysia.js, Frontend Development, React, Next.js, Flutter
 - 🌟 **Interests**: Building backend systems, API integrations, and Machine Learning APIs
-- 🌱 **Currently Learning**: Advanced API design and cloud infrastructure
 
 ---
 
 ## 🚀 Skills & Tools
 
 - **Languages**: JavaScript, Python, SQL, java, c++
-- **Frameworks & Libraries**: Node.js, Flask, Express.js
+- **Frameworks & Libraries**: Node.js, Flask, Express.js, Elysia.js, Prisma
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Tools**: Git, Docker, Postman
 
