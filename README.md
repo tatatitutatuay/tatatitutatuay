@@ -21,6 +21,14 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at **Chulalongk
 
 ---
 
+## 🚀 Internship
+
+### **ACIS: Cyber Sercurity Consultant**
+
+### **Indragate Mission: Developer**
+
+---
+
 ## 🌟 Projects
 
 ### 1. **Friday Activity System**
