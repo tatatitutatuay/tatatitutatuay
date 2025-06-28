@@ -29,24 +29,19 @@ A web application for CEDT students to register and apply for activities.
 - **Tech Stack**: Node.js, PostgreSQL
 - [🔗 https://github.com/Darjeeling47/Friday-Act-Backend](#)
 
-### 2. **MindLink**
-Developed a web backend for a payment system.
-- **Tech Stack**: Node.js, SQL
-- [🔗 https://github.com/MindLinked/MindLinkBackend](#)
-
-### 3. **Automatic Planting**
+### 2. **Automatic Planting**
 An IoT system with an embedding server to transfer data from hardware to a web server. Also created a LINE webhook for messaging API.
 - **Tech Stack**: Python, Flask, LINE Messaging API
 - [🔗 https://github.com/tatatitutatuay/ineedyourwater](#) | [🌐 https://ineedyourwater.vercel.app/](#)
 
-### 4. **A2K**
+### 3. **A2K**
 A machine learning API for advanced keyword extraction.
 - **Tech Stack**: Python
 - [🔗 https://github.com/tatatitutatuay/dsde_project](#) |[🌐 https://dsde-project.vercel.app/](#)
 - [🌐 https://a2k-backend.onrender.com/api/extract](#)
 
 
-### 5. **Farming Game**
+### 4. **Farming Game**
 Desktop game -> farming cooking using java
 - **Tech Stack**: JavaFX
 - [🔗 https://github.com/2110215-ProgMeth/project-cedt-2023-2-helloworld](#)
