@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at **Chulalongk
 ## 👨‍💻 About Me
 
 - 🎓 **Education**: Computer Engineering @ Chulalongkorn University
-- 🛠️ **Expertise**: Backend Web Development, Node.js, Python, SQL, prisma, Elysia.js, Frontend Development, React, Next.js, Flutter
+- 🛠️ **Expertise**: Backend Web Development, Node.js, Python, SQL, Prisma, Elysia.js, Frontend Development, React, Next.js, Flutter
 - 🌟 **Interests**: Building backend systems, API integrations, and Machine Learning APIs
 
 ---
@@ -23,9 +23,11 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at **Chulalongk
 
 ## 🚀 Internship
 
-### **ACIS: Cyber Sercurity Consultant**
-
+### **ACIS: Cyber Security Consultant**
+- During my internship at ACIS Professional Center Co., Ltd, I worked as a cybersecurity consultant focused on identifying system vulnerabilities, simulating potential attacks, and recommending preventive measures. My work particularly emphasized the cybersecurity risks associated with AI applications.
 ### **Indragate Mission: Developer**
+- Developed a web application for land analysis by combining satellite data, land records, and financial statements from farmers to assess creditworthiness. Responsible for both frontend and backend development.
+- Created a document analysis platform capable of extracting key information, performing semantic search, scoring relevant pages, and integrating a large language model to enhance understanding and interpretation of complex documents.
 
 ---
 
@@ -37,7 +39,7 @@ A web application for CEDT students to register and apply for activities.
 - [🔗 https://github.com/Darjeeling47/Friday-Act-Backend](#)
 
 ### 2. **Automatic Planting**
-An IoT system with an embedding server to transfer data from hardware to a web server. Also created a LINE webhook for messaging API.
+An IoT system with an embedded server to transfer data from hardware to a web server. Also created a LINE webhook for the messaging API.
 - **Tech Stack**: Python, Flask, LINE Messaging API
 - [🔗 https://github.com/tatatitutatuay/ineedyourwater](#) | [🌐 https://ineedyourwater.vercel.app/](#)
 
@@ -49,7 +51,7 @@ A machine learning API for advanced keyword extraction.
 
 
 ### 4. **Farming Game**
-Desktop game -> farming cooking using java
+Desktop game -> farming, cooking using Java
 - **Tech Stack**: JavaFX
 - [🔗 https://github.com/2110215-ProgMeth/project-cedt-2023-2-helloworld](#)
 
