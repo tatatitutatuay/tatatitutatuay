@@ -40,10 +40,6 @@
   - An advanced machine learning system for intelligent keyword extraction from academic papers, combined with interactive data visualization.
   - 🔗 A2K: [dsde-project.vercel.app](https://dsde-project.vercel.app/)
 
-- **TataDo**
-  - A web-based project management system designed to efficiently track progress, visualize timelines, and organize tasks for better workflow management.
-  - 🔗 TataDo: [tatado.vercel.app](https://tatado.vercel.app/)
-
 - **Automatic Planting**
   - Embedded IoT system for sensor data acquisition and data transfer to a web dashboard, alongside a LINE Messaging API webhook for automated event-based messaging.
   - 🔗 I Need Your Water: [ineedyourwater.vercel.app](https://ineedyourwater.vercel.app/)
