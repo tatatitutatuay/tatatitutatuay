@@ -3,8 +3,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education**: Computer Engineering @ Chulalongkorn University
-- 🛠️ **Expertise**: Backend Web Development, Node.js, Python, SQL, Prisma, Elysia.js, Frontend Development, React, Next.js, Flutter
-- 🌟 **Interests**: Building backend systems, API, and Machine Learning
+- 🛠️ **Expertise**: Backend Web Development, Full-Stack Web Development
+- 🌟 **Interests**: Building backend systems, API, Software, and Agentic AI
 
 ---
 
@@ -13,7 +13,7 @@
 - **Languages**: JavaScript, TypeScript, Python, Java, C++, Go, Flutter, SQL
 - **Frameworks & Libraries**: Node.js, Flask, Express.js, Elysia.js, Go fiber, Prisma
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools**: Git, Docker, Nginx, Postman
+- **Tools**: Git, Docker, Nginx, Postman, Coding Agent
 
 ---
 
