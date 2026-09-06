@@ -19,34 +19,48 @@
 
 ## 🧾 Experiences
 
-- *May 2024 - July 2024* — **Cyber Security Consultant (Intern)** : ***ACIS Professional Center Co., Ltd.***
-  - Researched system vulnerabilities and provided mitigation strategies to prevent cyber attacks, with emphasis on risks in AI applications.
+- *August 2025 - Present* — **Part-time Developer** : ***Indragate Mission Co., Ltd.***
+  - Designing, coding, and testing software features based on client specifications.
 
-- *May 2025 - August 2025* — **Web Application Developer (Intern)** : ***Indragate Mission Co., Ltd.***
+- *February 2026 - May 2026* — **Developer Intern** : ***Skooldio Tech***
+  - Designed and implemented software features based on client specifications.
+
+- *May 2025 - August 2025* — **Developer Intern** : ***Indragate Mission Co., Ltd.***
   - Built a web application integrating geospatial data and AI-based analytics; implemented frontend and backend features to improve usability and performance.
 
-- *August 2025 - Present* — **Software Developer** : ***Indragate Mission Co., Ltd.***
-  - Designing, coding, and testing software features based on client specifications.
+- *May 2024 - July 2024* — **Cyber Security Consult Intern** : ***ACIS Professional Center Co., Ltd.***
+  - Researched system vulnerabilities and provided mitigation strategies to prevent cyber attacks, with emphasis on risks in AI applications.
 
 ---
 
 ## 🌟 Projects
 
+- **กะเต๋ว**
+  - Godot typing game, let's cook noodle.
+  - 🔗 Play: [phakkad.itch.io/fat-fingers-noodle-panic](https://phakkad.itch.io/fat-fingers-noodle-panic)
+
 - **ESG Platform**
   - A platform to help companies manage and report their Environmental, Social, and Governance (ESG) data effectively using AI to analyze the gaps in their reporting.
-  - 🔗 ESG Platform: [app.esg-ai.wankaew.com](https://app.esg-ai.wankaew.com)
+
+- **QuickSchema**
+  - A web application that enables user to migrate database schemas between different database management systems with ease.
 
 - **A2K**
   - An advanced machine learning system for intelligent keyword extraction from academic papers, combined with interactive data visualization.
-  - 🔗 A2K: [dsde-project.vercel.app](https://dsde-project.vercel.app/)
 
 - **Automatic Planting**
   - Embedded IoT system for sensor data acquisition and data transfer to a web dashboard, alongside a LINE Messaging API webhook for automated event-based messaging.
-  - 🔗 I Need Your Water: [ineedyourwater.vercel.app](https://ineedyourwater.vercel.app/)
 
 - **Farming Game**
   - A Java-based desktop pixel game that combines farming and cooking gameplay, allowing players to grow crops, gather ingredients, and create dishes in a retro-style environment.
-  - 🔗 Repo: [github.com/2110215-ProgMeth/project-cedt-2023-2-helloworld](https://github.com/2110215-ProgMeth/project-cedt-2023-2-helloworld)
+
+---
+
+## 🎯 Activities
+
+- **FEcamp**
+  - As a vice president and former head of the activity team in an academic camp, I have planned and organized team workflows to maximize efficiency, collaboration, and overall effectiveness.
+  - 🔗 [instagram.com/fecampcu](https://www.instagram.com/fecampcu/)
 
 ---
 
